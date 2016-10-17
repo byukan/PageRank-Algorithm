@@ -1,0 +1,7 @@
+# Directed graph (each unordered pair of nodes is saved once): Amazon0302.txt 
+# Amazon product co-purchaisng network from March 02 2003
+# Nodes: 262111 Edges: 1234877
+# FromNodeId	ToNodeId
+
+Return adjacency matrix of G.
+https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.linalg.graphmatrix.adjacency_matrix.html
